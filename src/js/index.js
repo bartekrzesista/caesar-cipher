@@ -1,3 +1,4 @@
 import '../scss/index.scss';
+import caesar13 from './caesar';
 
-console.log('Hello World');
+console.log(caesar13('PRZEPROGRAMOWANI'));
